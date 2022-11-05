@@ -1,6 +1,10 @@
 # Hi there 👋
 
 ## 🚀 About Me
+<p>
+  🎓 I am  Arpit Developer, a <b>Front End Developer</b> (specializing in React Native and Expo Applications).</p>
+<p>
+👨‍💻 I am really enthusiastic about learning new technology. I learned <b> React Native, Expo, Firebase, MongoDB, ReactJS, Nodejs, Progressive Web App (PWA)</b> and  <b>GraphQL</b></p> .
 <!--
 **arpitdeveloper/arpitdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
