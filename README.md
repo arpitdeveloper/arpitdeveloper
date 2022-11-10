@@ -12,7 +12,7 @@
   
    - Social Networking App ( Facebook, Twitter, Instagram, ... )
    - Integration with Web Service( XML, JSON, SOAP, REST, ... )
-   - Database Management( SQLite )
+   - Database Management( SQLite, MongoDB, Firebase )
    - Dating app
    - Google Map, GPS Location.
    - Educational App
@@ -20,6 +20,9 @@
    - eCommerce App
    - Survey App
    - LIVE streaming App
+   - Food Delivery App
+   - Travelling Guide App
+   
   
  ### 🚀 Other Features
    - In-App Purchases
@@ -32,6 +35,9 @@
    - Responsive Design
    - Native Android Application Development(Java/Kotlin)
    - Native iOS Application Development (Swift and Objective C)
+   - Flutter Application Development (iOS / Android)
+   - React JS Web Development
+   
 
   
 <!-- - 🔭 I’m currently working on ...
