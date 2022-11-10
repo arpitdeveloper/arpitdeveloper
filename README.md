@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 <p>
-  🎓 I am  Arpit Developer, I have more than <b>8 years</b> of experience in <b>Mobile applications and Web Development</b>. I have a track record of delivering projects on a timeline and reasonable budget.
+  🎓 I am  Arpit Trivedi, I have more than <b>8 years</b> of experience in <b>Mobile applications and Web Development</b>. I have a track record of delivering projects on a timeline and reasonable budget.
 
- 🎓 I have developed 70 + apps till now.
-<!--
+ 🔭 I have developed 70 + apps till now.
+
 **arpitdeveloper/arpitdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
