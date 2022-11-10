@@ -4,8 +4,9 @@
 <p>
    I am  Arpit Trivedi, I have more than <b>8 years</b> of experience in <b>Mobile applications and Web Development</b>. I have a track record of delivering projects on a timeline and reasonable budget. I have developed <b> 70 + apps </b> till now.
 
-<br/>
-  ####<b>My skills and experiences are following:-</b>
+
+   
+   #### My skills and experiences are following:-
 
   ### 🚀 App
   
