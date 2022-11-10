@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 <p>
-  🎓 I am  Arpit Developer, a <b>Front End Developer</b> (specializing in React Native and Expo Applications).</p>
-<p>
-👨‍💻 I am really enthusiastic about learning new technology. I learned <b> React Native, Expo, Firebase, MongoDB, ReactJS, Nodejs, Progressive Web App (PWA)</b> and  <b>GraphQL</b></p> .
+  🎓 I am  Arpit Developer, I have more than <b>8 years</b> of experience in <b>Mobile applications and Web Development</b>. I have a track record of delivering projects on a timeline and reasonable budget.
+
+ 🎓 I have developed 70 + apps till now.
 <!--
 **arpitdeveloper/arpitdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
