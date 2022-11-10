@@ -2,13 +2,12 @@
 
 ## 🚀 About Me
 <p>
-  🎓 I am  Arpit Trivedi, I have more than <b>8 years</b> of experience in <b>Mobile applications and Web Development</b>. I have a track record of delivering projects on a timeline and reasonable budget.
+  🎓 I am  Arpit Trivedi, I have more than **8 years** of experience in **Mobile applications and Web Development**. I have a track record of delivering projects on a timeline and reasonable budget.
 
  🔭 I have developed 70 + apps till now.
 
-**arpitdeveloper/arpitdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My skills and experiences are following:-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
