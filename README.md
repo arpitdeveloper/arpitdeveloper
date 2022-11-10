@@ -22,6 +22,7 @@
    - LIVE streaming App
    - Food Delivery App
    - Travelling Guide App
+   - News App
    
   
  ### 🚀 Other Features
